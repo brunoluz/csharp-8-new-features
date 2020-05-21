@@ -1,0 +1,13 @@
+/Users/brunoluz/Documents/github/brunoluz/csharp-8-new-features/src/csharp-8-new-features/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/brunoluz/Documents/github/brunoluz/csharp-8-new-features/src/csharp-8-new-features/bin/Debug/netcoreapp3.1/csharp-8-new-features.deps.json
+/Users/brunoluz/Documents/github/brunoluz/csharp-8-new-features/src/csharp-8-new-features/bin/Debug/netcoreapp3.1/csharp-8-new-features.dll
+/Users/brunoluz/Documents/github/brunoluz/csharp-8-new-features/src/csharp-8-new-features/bin/Debug/netcoreapp3.1/csharp-8-new-features.pdb
+/Users/brunoluz/Documents/github/brunoluz/csharp-8-new-features/src/csharp-8-new-features/obj/Debug/netcoreapp3.1/csharp-8-new-features.csprojAssemblyReference.cache
+/Users/brunoluz/Documents/github/brunoluz/csharp-8-new-features/src/csharp-8-new-features/obj/Debug/netcoreapp3.1/csharp-8-new-features.AssemblyInfoInputs.cache
+/Users/brunoluz/Documents/github/brunoluz/csharp-8-new-features/src/csharp-8-new-features/obj/Debug/netcoreapp3.1/csharp-8-new-features.AssemblyInfo.cs
+/Users/brunoluz/Documents/github/brunoluz/csharp-8-new-features/src/csharp-8-new-features/obj/Debug/netcoreapp3.1/csharp-8-new-features.csproj.CoreCompileInputs.cache
+/Users/brunoluz/Documents/github/brunoluz/csharp-8-new-features/src/csharp-8-new-features/obj/Debug/netcoreapp3.1/csharp-8-new-features.RazorTargetAssemblyInfo.cache
+/Users/brunoluz/Documents/github/brunoluz/csharp-8-new-features/src/csharp-8-new-features/obj/Debug/netcoreapp3.1/staticwebassets/csharp-8-new-features.StaticWebAssets.Manifest.cache
+/Users/brunoluz/Documents/github/brunoluz/csharp-8-new-features/src/csharp-8-new-features/obj/Debug/netcoreapp3.1/staticwebassets/csharp-8-new-features.StaticWebAssets.xml
+/Users/brunoluz/Documents/github/brunoluz/csharp-8-new-features/src/csharp-8-new-features/obj/Debug/netcoreapp3.1/csharp-8-new-features.dll
+/Users/brunoluz/Documents/github/brunoluz/csharp-8-new-features/src/csharp-8-new-features/obj/Debug/netcoreapp3.1/csharp-8-new-features.pdb

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-8-new-features", "csharp-8-new-features\csharp-8-new-features.csproj", "{ED2B8B19-5C11-4513-A065-6AEB15936256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-8-new-features.Tests", "csharp-8-new-features.Tests\csharp-8-new-features.Tests.csproj", "{8FB41331-70B2-471F-95AB-196B2D104C4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED2B8B19-5C11-4513-A065-6AEB15936256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2B8B19-5C11-4513-A065-6AEB15936256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2B8B19-5C11-4513-A065-6AEB15936256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2B8B19-5C11-4513-A065-6AEB15936256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB41331-70B2-471F-95AB-196B2D104C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB41331-70B2-471F-95AB-196B2D104C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB41331-70B2-471F-95AB-196B2D104C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB41331-70B2-471F-95AB-196B2D104C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
