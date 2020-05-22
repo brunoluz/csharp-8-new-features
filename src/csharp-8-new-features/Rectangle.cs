@@ -9,6 +9,7 @@ namespace csharp_8_new_features
     {
         public decimal X { get; set; }
         public decimal Y { get; set; }
+
         public readonly decimal Area => X * Y;
 
         public readonly override string ToString() => $"Quare area is {Area}";

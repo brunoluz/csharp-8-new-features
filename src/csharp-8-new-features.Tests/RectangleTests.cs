@@ -5,7 +5,7 @@ namespace csharp_8_new_features.Tests
     public class RectangleTests
     {
         [Test]
-        public void Square_Area_Ok()
+        public void Square_Area_Test()
         {
             var sut = new Rectangle() { X = 2, Y = 3 };
 
