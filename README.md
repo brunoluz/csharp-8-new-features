@@ -7,5 +7,5 @@ Source: https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8
 
 | Feature | File |
 | --- | --- |
-| Readonly members | Square.cs |
+| Readonly members | Rectangle.cs |
 | Default interface methods | ICustomer.cs |

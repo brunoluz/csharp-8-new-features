@@ -12,6 +12,6 @@ namespace csharp_8_new_features
 
         public readonly decimal Area => X * Y;
 
-        public readonly override string ToString() => $"Quare area is {Area}";
+        public readonly override string ToString() => $"Rectangle area is {Area}";
     }
 }
